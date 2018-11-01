@@ -1,0 +1,7 @@
+out_file1.txt
+out_file2.txt
+out_file3.txt
+solveMaze VALID solution given				      |	solveMaze Maze has no valid solution
+solveMaze VALID solution given				      |	solveMaze Maze has no valid solution
+solveMaze VALID solution given				      |	solveMaze Maze has no valid solution
+out_file4.txt
